@@ -23,15 +23,6 @@ mainMatrix = [[[[0,8,2],
     ]
 ]
 
-inp = input()
-
-for i in range(3):
-        for j in range(3):
-            for k in range(3):
-                for l in range(3):
-                    for x in inp:
-                        mainMatrix[i][j][k][l] = int(x)
-
 emptyMatrix = []
 
 def printCol(a,b,c,d):
