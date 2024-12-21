@@ -1,4 +1,4 @@
-# 3D Sudoku Solver
+# Sudoku Solver
 
 ## Overview
 It doesn't work for complesx ones, working on it tho
